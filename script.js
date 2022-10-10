@@ -9,12 +9,16 @@ multipli di 5 Buzz
 multipli di 3 e 5 FizzBuzz
 */
 
+// i++ <==> i = i + 1
 
-
-for(let i = 0; i < 100; i + 3 ) {
-     console.log(i);
+for(let i = 0; i < 100; i = i + 3 ) {
+    if (i = i + 3 ){
+        console.log('Fizz');
+    }
+   
+    // se la i  è multiplo di 3 allora stampo
      
  }
-/* for(let i = 0; i < 100; i + 5 ) {
-    console.log()   
+/* for(let i = 0; i < 100; i = i + 5 ) {
+    console.log(i)   
 } */
