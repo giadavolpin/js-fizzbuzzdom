@@ -10,9 +10,9 @@ multipli di 3 e 5 FizzBuzz
 */
 
 
-const nome = document.getElementById('fizz');
+
 for(let i = 0; i < 100; i + 3 ) {
-     console.log(fizz);
+     console.log(i);
      
  }
 /* for(let i = 0; i < 100; i + 5 ) {
