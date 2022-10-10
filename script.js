@@ -19,6 +19,10 @@ for(let i = 0; i < 100; i = i + 3 ) {
     // se la i  è multiplo di 3 allora stampo
      
  }
-/* for(let i = 0; i < 100; i = i + 5 ) {
-    console.log(i)   
-} */
+
+for(let i = 0; i < 100; i = i + 5 ) {
+   if (i = i + 5 ) {
+        console.log('Buzz')
+   }
+       
+}
